@@ -1,0 +1,10 @@
+{
+    "name": "test/test",
+    "type": "project",
+    "description": "The Tenbajt Framework.",
+    "keywords": ["framework", "tenbajt", "laravel"],
+    "license": "MIT",
+    "require": {
+        "laravel/framework": "^8.42"
+    }
+}
